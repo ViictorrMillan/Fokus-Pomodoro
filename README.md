@@ -29,5 +29,5 @@ Agradeço aos cursos ONE da Oracle e Alura por fornecerem as bases desse projeto
 
 Clique no botão abaixo para conferir o projeto hospedado na Vercel:
 
-[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-Vercel-blue)](https://linkdoprojeto.vercel.app)
+[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-Vercel-blue)](https://fokus-pomodoro-eight.vercel.app)
 
