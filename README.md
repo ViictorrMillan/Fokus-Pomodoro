@@ -23,16 +23,6 @@ A ferramenta Pomodoro é uma técnica de gerenciamento de tempo, onde você trab
 - **CSS**: Estilização da interface.
 - **JavaScript**: Funcionalidade dinâmica, incluindo controle de tempo e interação com os usuários.
 
-## Como Usar
-
-1. Clone ou baixe este repositório.
-2. Abra o arquivo `index.html` em um navegador de sua escolha.
-3. Clique nos botões de controle para iniciar, pausar e reiniciar o cronômetro.
-
-## Requisitos
-
-- Um navegador moderno (Google Chrome, Firefox, etc.).
-
 ## Agradecimentos
 
 Agradeço aos cursos ONE da Oracle e Alura por fornecerem as bases desse projeto. A implementação do botão de reiniciar foi uma adição minha para tornar a ferramenta ainda mais funcional.
